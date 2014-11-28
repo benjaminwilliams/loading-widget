@@ -1,0 +1,23 @@
+{
+  "name": "loading-widget",
+  "main": "loading-widget.js",
+  "version": "0.0.1",
+  "authors": [
+    "Ben Williams <benj@minwilliams.net>"
+  ],
+  "description": "Angular directive to show and hide loading icon as needed",
+  "keywords": [
+    "nib-ng"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependancies" : {
+    "angular": "~1.2.27"
+  }
+}
